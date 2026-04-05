@@ -48,5 +48,7 @@ disp(variance_value);
 
 OUTPUT GRAPH:
 
+<img width="390" height="206" alt="image" src="https://github.com/user-attachments/assets/9a6e452c-03e3-4bfd-a12c-6529c8111095" />
+
 RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
